@@ -1,0 +1,10 @@
+{
+  "RUN_EDA": false,
+  "RUN_DATA_PREPROCESSING": false,
+  "RUN_FEATURE_ENGINEERING": true,
+  "RUN_MODEL_TRAINING": true,
+  "RUN_MODEL_EVALUATION": true,
+  "RUN_MODEL_BILSTM": true,
+  "RUN_MODEL_ATTENTION_LSTM": false,
+  "RUN_MODEL_BIGRU_CAPSULE": false
+}
