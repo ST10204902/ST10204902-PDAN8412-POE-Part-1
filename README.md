@@ -2,6 +2,8 @@
 
 The project files (including dataset and processed parquet splits) exceeds GitHub's upload limits. Use the OneDrive link below to retrieve the full submission bundle that reproduces every notebook output. Install the requirements, extract the archive locally, and run the notebook from within the project root.
 
+[GitHub Link](https://github.com/ST10204902/ST10204902-PDAN8412-POE-Part-1)
+
 [OneDrive Link](https://1drv.ms/f/c/99a6b5061266db4c/ElUOjUnAzy1OizGOvFEdBEwBanfMGe4xuoIduSooGQfcEw?e=xxQ9mF)
 
 ---
