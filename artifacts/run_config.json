@@ -22,7 +22,7 @@
     "95": 1000.0,
     "99": 1000.0
   },
-  "vocab_size": 9979,
+  "vocab_size": 1,
   "chi2_k": 30000,
   "trained_epochs": 15,
   "best_val_macro_f1": 0.8788352882904493

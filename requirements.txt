@@ -15,3 +15,4 @@ notebook
 jupyter
 ipykernel
 tqdm
+pydot

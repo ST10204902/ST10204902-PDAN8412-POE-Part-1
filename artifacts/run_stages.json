@@ -1,7 +1,7 @@
 {
-  "RUN_EDA": true,
+  "RUN_EDA": false,
   "RUN_DATA_PREPROCESSING": false,
-  "RUN_FEATURE_ENGINEERING": false,
+  "RUN_FEATURE_ENGINEERING": true,
   "RUN_MODEL_TRAINING": false,
   "RUN_MODEL_EVALUATION": true,
   "RUN_MODEL_BILSTM": false,
